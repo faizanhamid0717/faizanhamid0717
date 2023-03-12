@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrsMDZELNS3TXssVeycXk8pculqfvTj3vUQ&usqp=CAU" width="600" height="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="600" height="300"/>
 </div>
 <h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </span>, My name is Faizan Hamid</h1>
@@ -16,7 +16,7 @@
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
+<img src="https://camo.githubusercontent.com/b57b73912871ec11b470939c0a29370e6dbce5ca664d76462a98f18937313ad8/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763525772734d445a454c4e53335458737356657963586b387063756c716676546a3376555126757371703d434155" align="right" width=300>
 
 ## :man_technologist: About Me :
 An enthusiastic Full Stack Web Developer hailing from India.
@@ -38,7 +38,6 @@ An enthusiastic Full Stack Web Developer hailing from India.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b57b73912871ec11b470939c0a29370e6dbce5ca664d76462a98f18937313ad8/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763525772734d445a454c4e53335458737356657963586b387063756c716676546a3376555126757371703d434155"/> </a>
 
 ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -51,9 +50,6 @@ An enthusiastic Full Stack Web Developer hailing from India.
 
 
 ## 📊 GitHub Stats:
-<p align="left">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanhamid&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="faizanhamid" align="left"></a>
-</p>
 
 <p align="right">
 <a href="https://github.com/faizanhamid0717?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanhamid0717&show_icons=true&locale=en&layout=compact" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
