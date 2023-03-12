@@ -22,7 +22,7 @@
 An enthusiastic Full Stack Web Developer hailing from India.
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 - 👯 I am also looking for some **Open Source Oppurtunities**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://im-vishalanand.github.io/)**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/faizanhamid0717)**
@@ -37,7 +37,7 @@ An enthusiastic Full Stack Web Developer hailing from India.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=teal)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -61,4 +61,4 @@ An enthusiastic Full Stack Web Developer hailing from India.
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=faizanhamid0717&label=Profile%20views&color=0e75b6&style=flat" alt="faizanhamid0717"/> </p>
 
-### <h1>Thanks for visiting!</h1> 😊
+ <h1>### Thanks for visiting! 😊</h1> 
