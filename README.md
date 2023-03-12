@@ -37,7 +37,9 @@ An enthusiastic Full Stack Web Developer hailing from India.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b57b73912871ec11b470939c0a29370e6dbce5ca664d76462a98f18937313ad8/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763525772734d445a454c4e53335458737356657963586b387063756c716676546a3376555126757371703d434155"/> </a>
+
 ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -54,15 +56,15 @@ An enthusiastic Full Stack Web Developer hailing from India.
 </p>
 
 <p align="right">
-<a href="https://github.com/Im-vishalanand?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Im-vishalanand&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Im-vishalanand github-readme-stats"/></a>
+<a href="https://github.com/faizanhamid0717?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanhamid0717&show_icons=true&locale=en&layout=compact" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
 
-<a href="https://github.com/Im-vishalanand?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Im-vishalanand github-readme-streak-stats"/></a>
+<a href="https://github.com/faizanhamid0717?tab=stars"><img src="https://github-readme-stats.vercel.app/api?username=faizanhamid0717&show_icons=true&locale=en" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
 </p>
 
 ---
 
 <h3>⚡Feel free to reach out.✌️</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Im-vishalanand&label=Profile%20views&color=0e75b6&style=flat" alt="Im-vishalanand"/> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=faizanhamid0717&label=Profile%20views&color=0e75b6&style=flat" alt="faizanhamid0717"/> </p>
 
 ### Thanks for visiting! 😊
