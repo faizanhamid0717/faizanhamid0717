@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="500" height="300"/>
+  <img src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="500" height="300"/>
 </div>
 <h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </span>, My name is Faizan Hamid</h1>
@@ -16,7 +16,7 @@
 
 </p>
 
-<img src="https://camo.githubusercontent.com/b57b73912871ec11b470939c0a29370e6dbce5ca664d76462a98f18937313ad8/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763525772734d445a454c4e53335458737356657963586b387063756c716676546a3376555126757371703d434155" align="right" width=300>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" align="right" width=300>
 
 ## :man_technologist: About Me :
 An enthusiastic Full Stack Web Developer hailing from India.
