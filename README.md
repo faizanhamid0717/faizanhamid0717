@@ -25,7 +25,7 @@ An enthusiastic Full Stack Web Developer hailing from India.
 - 🌱 I’m currently learning **React.js**
 - 👯 I am also looking for some **Open Source Oppurtunities**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://im-vishalanand.github.io/)**
-- 👨‍💻 All of my projects are available at **[here](https://github.com/faizanhamid0717)**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/faizanhamid0717?tab=repositories)**
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1Kwo7FQJuRqYUc370NUXrS4rlqvoogxaF/view?usp=share_link)**
 -  💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 How to reach me **faizanhamid162@gmail.com**
