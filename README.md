@@ -27,7 +27,7 @@ An enthusiastic Full Stack Web Developer hailing from India.
 
 - 🌱 I’m currently learning **React.js**
 - 👯 I am also looking for some **Open Source Oppurtunities**
-- 👨🏻‍🎓 Visit my **[Portfolio](https://im-vishalanand.github.io/)**
+- 👨🏻‍🎓 Visit my **[Portfolio](https://faizanhamid0717.github.io)**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/faizanhamid0717?tab=repositories)**
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1Kwo7FQJuRqYUc370NUXrS4rlqvoogxaF/view?usp=share_link)**
 -  💬 Ask me about **HTML, CSS, JavaScript**
@@ -54,6 +54,9 @@ An enthusiastic Full Stack Web Developer hailing from India.
 
 <p align="left">
 <a href="https://github.com/faizanhamid0717?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanhamid0717&show_icons=true&locale=en&layout=compact" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=faizanhamid0717&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
+          alt="streak" />
 
 <a href="https://github.com/faizanhamid0717?tab=stars"><img src="https://github-readme-stats.vercel.app/api?username=faizanhamid0717&show_icons=true&locale=en" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
 </p>
