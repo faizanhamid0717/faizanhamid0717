@@ -5,7 +5,7 @@
 </span>, My name is Faizan Hamid</h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+web+developer+from+India" alt="Welcome to my GitHub Profile. I am a enthusiastic Full Stack Web Developer hailing from India.." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+enthusiastic+full-stack+web+developer+from+India." alt="Welcome to my GitHub Profile. I am a enthusiastic Full Stack Web Developer hailing from India." />
 </p>
 
 
@@ -64,13 +64,9 @@ An enthusiastic Full Stack Web Developer hailing from India.
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=faizanhamid0717&label=Profile%20views&color=0e75b6&style=flat" alt="faizanhamid0717"/> </p>
 
- <h1>### Thanks for visiting! 😊</h1> 
+ 
+<img src="https://capsule-render.vercel.app/api?text=Thank%20you%20for%20Visiting!&animation=fadeIn&type=waving&color=gradient&section=footer&height=100"/> 
 
 
 
 
-https://github.com/faizanhamid0717
-
-<p align="left">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanhamid&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="faizanhamid" align="left"></a>
-</p>
