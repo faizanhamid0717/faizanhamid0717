@@ -29,9 +29,9 @@ An enthusiastic Full Stack Web Developer hailing from India.
 
 - 🌱 I’m currently learning **React.js**
 - 👯 I am also looking for some **Open Source Oppurtunities**
-- 👨🏻‍🎓 Visit my **[Portfolio](https://faizanhamid0717.github.io/)**
+- 👨🏻‍🎓 Visit my **[Portfolio]([https://faizanhamid0717.github.io/])**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/faizanhamid0717?tab=repositories)**
-- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1tp29qG9cjSmziNOIh7yHaTW5BC2GDs5S/view?usp=sharing)**
+- 🪢 Know more about me **[My Resume]([https://drive.google.com/file/d/1tp29qG9cjSmziNOIh7yHaTW5BC2GDs5S/view?drive_link])**
 -  💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB**
 - 📫 How to reach me **faizanhamid162@gmail.com**
 
