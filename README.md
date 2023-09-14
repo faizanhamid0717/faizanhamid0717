@@ -50,7 +50,7 @@ An enthusiastic Full Stack Web Developer hailing from India.
 ### Frameworks, Platforms and Libraries Expertise
 ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=teal)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2368A063.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node.Js-%2368A063.svg?style=for-the-badge&logo=Node.Js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/Mongodb-%2347A248.svg?style=for-the-badge&logo=Mongodb&logoColor=green)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white)
