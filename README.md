@@ -47,7 +47,7 @@ An enthusiastic Full Stack Web Developer hailing from India.
 ![Node](https://img.shields.io/badge/Node-%23000000.svg?style=for-the-badge&logo=Node&logoColor=green)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/Mongodb-%23000000.svg?style=for-the-badge&logo=Mongodb&logoColor=green)
-![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=Python&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=Python&logoColor=yellow)
 ![Angular](https://img.shields.io/badge/Angular-%23000000.svg?style=for-the-badge&logo=Angular&logoColor=red)
 
 
