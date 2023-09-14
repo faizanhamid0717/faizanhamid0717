@@ -97,7 +97,7 @@ An enthusiastic Full Stack Web Developer hailing from India.
 <p align="center"><img src="https://komarev.com/ghpvc/?username=faizanhamid0717&label=Profile%20views&color=0e75b6&style=flat" alt="faizanhamid0717"/> </p>
 
  
-<img src="https://capsule-render.vercel.app/api?text=Thank%20you%20for%20Visiting!&animation=fadeIn&type=waving&color=orange&section=footer&height=100"/>
+<img src="https://capsule-render.vercel.app/api?text=Thank%20you%20for%20Visiting!&animation=fadeIn&type=waving&color=white&section=footer&height=100"/>
 
 
 
