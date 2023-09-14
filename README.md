@@ -90,7 +90,7 @@ An enthusiastic Full Stack Web Developer hailing from India.
 
 ---
 <h2>⚡Activity Graph</h2>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faizanhamid0717&theme=react-dark&hide_border=true" alt="Faizan Activity Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faizanhamid0717&theme=react-dark&hide_border=true" alt="faizan Activity Graph" />
 
 <h2>⚡Feel free to reach out.✌️</h2>
 
