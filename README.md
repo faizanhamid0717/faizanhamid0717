@@ -44,6 +44,9 @@ An enthusiastic Full Stack Web Developer hailing from India.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=teal)
 ![Redux](https://img.shields.io/badge/Redux-%23000000.svg?style=for-the-badge&logo=Redux&logoColor=purple)
+![Node.js](https://img.shields.io/badge/Node.js-%23000000.svg?style=for-the-badge&logo=Node.js&logoColor=green)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
