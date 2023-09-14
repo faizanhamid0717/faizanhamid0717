@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="500" height="350"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="450" height="300"/>
 </div>
 <h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </span>, My name is Faizan Hamid</h1>
@@ -97,7 +97,7 @@ An enthusiastic Full Stack Web Developer hailing from India.
 <p align="center"><img src="https://komarev.com/ghpvc/?username=faizanhamid0717&label=Profile%20views&color=0e75b6&style=flat" alt="faizanhamid0717"/> </p>
 
  
-<img src="https://capsule-render.vercel.app/api?text=Thank%20you%20for%20Visiting!&animation=fadeIn&type=waving&color=white&section=footer&height=100"/>
+<img src="https://capsule-render.vercel.app/api?text=Thank%20you%20for%20Visiting!&animation=fadeIn&type=waving&color=&section=footer&height=100"/>
 
 
 
