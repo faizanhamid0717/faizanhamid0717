@@ -44,19 +44,19 @@ An enthusiastic Full Stack Web Developer hailing from India.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=for-the-badge&logo=Typescript&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=for-the-badge&logo=Typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=yellow)
 
 ### Frameworks, Platforms and Libraries Expertise
 ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=teal)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=purple)
-![Nodejs](https://img.shields.io/badge/Nodejs-%2368A063.svg?style=for-the-badge&logo=Nodejs&logoColor=green)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2368A063.svg?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/Mongodb-%2347A248.svg?style=for-the-badge&logo=Mongodb&logoColor=green)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=Angular&logoColor=red)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![Chakra-ui](https://img.shields.io/badge/Chakra-ui-%23319795.svg?style=for-the-badge&logo=Chakra-ui&logoColor=teal)
 ![Material-ui](https://img.shields.io/badge/Material-ui-%230081CB.svg?style=for-the-badge&logo=Material-ui&logoColor=blue)
-![Npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=red)
+![Npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
 ## Tools:
