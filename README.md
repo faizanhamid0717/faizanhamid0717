@@ -47,12 +47,14 @@ An enthusiastic Full Stack Web Developer hailing from India.
 ![Node](https://img.shields.io/badge/Node-%23000000.svg?style=for-the-badge&logo=Node&logoColor=green)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/Mongodb-%23000000.svg?style=for-the-badge&logo=Mongodb&logoColor=green)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=Python&logoColor=#00C7B7)
+![Angular](https://img.shields.io/badge/Angular-%23000000.svg?style=for-the-badge&logo=Angular&logoColor=white)
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 </p>
 
 
