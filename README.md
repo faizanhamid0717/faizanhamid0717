@@ -44,10 +44,10 @@ An enthusiastic Full Stack Web Developer hailing from India.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=teal)
 ![Redux](https://img.shields.io/badge/Redux-%23000000.svg?style=for-the-badge&logo=Redux&logoColor=purple)
-![Node](https://img.shields.io/badge/Node-%23000000.svg?style=for-the-badge&logo=Node&logoColor=green)
+![Nodejs](https://img.shields.io/badge/Nodejs-%23000000.svg?style=for-the-badge&logo=Nodejs&logoColor=green)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/Mongodb-%23000000.svg?style=for-the-badge&logo=Mongodb&logoColor=green)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23000000.svg?style=for-the-badge&logo=TypeScript&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/Typescript-%23000000.svg?style=for-the-badge&logo=Typescript&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=Python&logoColor=yellow)
 ![Angular](https://img.shields.io/badge/Angular-%23000000.svg?style=for-the-badge&logo=Angular&logoColor=red)
 
