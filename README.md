@@ -27,13 +27,13 @@
 An enthusiastic Full Stack Web Developer hailing from India.
 
 
-- 🌱 I’m currently learning **Full Stack Development**
-- 👯 I am also looking for some **Open Source Oppurtunities**
+- 🌱 **Full Stack Developer** with 3 years of industry experience, delivering performant, reliable, and modern web applications.
+- 👯 Exploring opportunities to contribute to modern, community-driven open-source solutions.
 - 👨🏻‍🎓 Visit my **[Portfolio](https://faizanhamid0717.github.io/)**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/faizanhamid0717?tab=repositories)**
-- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1tp29qG9cjSmziNOIh7yHaTW5BC2GDs5S/view?usp=sharing)**
--  💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB**
-- 📫 How to reach me **faizanhamid162@gmail.com**
+- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1hYRJvt_8W1ghxlbi05RRWMbKXfKAen5c/view?usp=drive_link)**
+-  💬 Feel free to reach out about modern full-stack engineering — including **JavaScript (ES6+), TypeScript, React.js, Redux, Node.js, Express, REST/GraphQL APIs, MongoDB, MySQL, and scalable frontend/backend architectures**.
+- 📫 How to reach me **faizan.hamid1996@gmail.com**
 
 ---
 
