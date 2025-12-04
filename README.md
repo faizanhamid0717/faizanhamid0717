@@ -45,21 +45,32 @@ An enthusiastic Full Stack Web Developer hailing from India.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=for-the-badge&logo=Typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 ### Frameworks, Platforms and Libraries Expertise :
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=teal)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux%20Saga-Async%20State%20Mgmt-purple)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-State%20Mgmt%20Toolkit-blueviolet)
 ![Node.Js](https://img.shields.io/badge/Node.Js-%2368A063.svg?style=for-the-badge&logo=Node.Js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![Chakra-ui](https://img.shields.io/badge/Chakra-ui-%23319795.svg?style=for-the-badge&logo=Chakra-ui&logoColor=teal)
 ![Material-ui](https://img.shields.io/badge/Material-ui-%230081CB.svg?style=for-the-badge&logo=Material-ui&logoColor=blue)
 ![Npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-Routing-blue)
+![Context API](https://img.shields.io/badge/Context_API-State%20Mgmt-blueviolet)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Admin](https://img.shields.io/badge/React_Admin-%2324292e.svg?style=for-the-badge&logo=react&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Auth-orange)
+![REST API](https://img.shields.io/badge/REST_API-%23000000.svg)
+![Lodash](https://img.shields.io/badge/Lodash-%23323330.svg?style=for-the-badge&logo=lodash&logoColor=white)
+![Yup](https://img.shields.io/badge/Yup-%23007ACC.svg?style=for-the-badge&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black)
 
 ### Databases :
 ![Mongodb](https://img.shields.io/badge/Mongodb-%2347A248.svg?style=for-the-badge&logo=Mongodb&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue)
 ### Testing :
 ![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
