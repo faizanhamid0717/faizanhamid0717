@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="450" height="300"/>
 </div>
-<h1 align="center">👋 Hey there,  <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">Hey there,  <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </span>I'm Faizan Hamid</h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
@@ -114,22 +114,21 @@ A dedicated and performance-oriented **Full Stack Web Developer** with 3+ years 
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/faizanhamid0717?tab=repositories">
-    <img src="https://img.shields.io/github/languages/top/faizanhamid0717?color=blue&style=for-the-badge" alt="Top Languages"/>
-  </a>
-
-  <a href="https://github.com/faizanhamid0717?tab=stars">
-    <img src="https://img.shields.io/github/stars/faizanhamid0717?style=for-the-badge" alt="GitHub Stars"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanhamid0717&layout=compact&theme=react" 
+       alt="Top Languages">
 </p>
-<p align="center">
 
+<p align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanhamid0717&theme=react&hide_border=true&background=0D1117" 
        alt="GitHub Streak"/>
 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizanhamid0717&show_icons=true&theme=react" 
+       alt="GitHub Stats">
+</p>
 
 
 ---
