@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="450" height="300"/>
 </div>
-<h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</span>, My name is Faizan Hamid</h1>
+<h1 align="center">👋 Hey there,  <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</span>I'm Faizan Hamid</h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+enthusiastic+full-stack+web+developer+from+India." alt="Welcome to my GitHub Profile. I am a enthusiastic Full Stack Web Developer hailing from India." />
@@ -28,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width=450>
 
 ## :man_technologist: About Me
-A passionate and results-driven **Full Stack Web Developer** from India, with 3 years of experience building scalable, high-performance web applications.
+A dedicated and performance-oriented **Full Stack Web Developer** with 3+ years of experience delivering scalable MERN-based applications. Passionate about modern web technologies, code quality, and building solutions that create real business value.
 
 
 - 👯 Exploring opportunities to contribute to modern, community-driven open-source solutions.
@@ -114,12 +114,14 @@ A passionate and results-driven **Full Stack Web Developer** from India, with 3 
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <!-- Shields.io replacements for Top Languages & Stars -->
-  [![Top Languages](https://img.shields.io/github/languages/top/faizanhamid0717?color=blue&style=for-the-badge)](https://github.com/faizanhamid0717?tab=repositories)
-  [![GitHub Stars](https://img.shields.io/github/stars/faizanhamid0717?style=for-the-badge)](https://github.com/faizanhamid0717?tab=stars)
+  <a href="https://github.com/faizanhamid0717?tab=repositories">
+    <img src="https://img.shields.io/github/languages/top/faizanhamid0717?color=blue&style=for-the-badge" alt="Top Languages"/>
+  </a>
+
+  <a href="https://github.com/faizanhamid0717?tab=stars">
+    <img src="https://img.shields.io/github/stars/faizanhamid0717?style=for-the-badge" alt="GitHub Stars"/>
+  </a>
 </p>
-
-
 <p align="center">
 
   <!-- GitHub Streak Stats -->
