@@ -12,22 +12,25 @@
 
 ---
 
-<h3 align="left">🤝Connect with me on:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/faizan-hamid29/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/FaizanH68410332" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-
+  <a href="https://www.linkedin.com/in/faizan-hamid29/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/FaizanH68410332" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2" alt="Twitter"/>
+  </a>
 </p>
+
 
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width=450>
 
-## :man_technologist: About Me :
-An enthusiastic Full Stack Web Developer hailing from India.
+## :man_technologist: About Me
+A passionate and results-driven **Full Stack Web Developer** from India, with 3 years of experience building scalable, high-performance web applications.
 
 
-- 🌱 **Full Stack Developer** with 3 years of industry experience, delivering performant, reliable, and modern web applications.
 - 👯 Exploring opportunities to contribute to modern, community-driven open-source solutions.
 - 👨🏻‍🎓 Visit my **[Portfolio](https://faizanhamid0717.github.io/)**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/faizanhamid0717?tab=repositories)**
@@ -85,30 +88,54 @@ An enthusiastic Full Stack Web Developer hailing from India.
 
 ## Tools:
 <p align="left">
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
-  <a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/> </a>
-   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/> 
-  
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Code-black" alt="GitHub"/>
+  </a>
+  <a href="https://bitbucket.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Bitbucket-Code-blue" alt="Bitbucket"/>
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-API-orange" alt="Postman"/>
+  </a>
+  <a href="https://netlify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify-Deploy-teal" alt="Netlify"/>
+  </a>
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-Deploy-black" alt="Vercel"/>
+  </a>
+  <a href="https://jira.com" target="_blank">
+    <img src="https://img.shields.io/badge/Jira-Project%20Mgmt-blue" alt="Jira"/>
+  </a>
+  <a href="https://jenkins.io" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red" alt="Jenkins"/>
+  </a>
 </p>
 
 
 ## 📊 GitHub Stats:
-
-<p align="left">
-<a href="https://github.com/faizanhamid0717?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanhamid0717&show_icons=true&locale=en&layout=compact" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=faizanhamid0717&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
-          alt="streak" />
-
-<a href="https://github.com/faizanhamid0717?tab=stars"><img src="https://github-readme-stats.vercel.app/api?username=faizanhamid0717&show_icons=true&locale=en" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
+<p align="center">
+  <!-- Shields.io replacements for Top Languages & Stars -->
+  [![Top Languages](https://img.shields.io/github/languages/top/faizanhamid0717?color=blue&style=for-the-badge)](https://github.com/faizanhamid0717?tab=repositories)
+  [![GitHub Stars](https://img.shields.io/github/stars/faizanhamid0717?style=for-the-badge)](https://github.com/faizanhamid0717?tab=stars)
 </p>
 
+
+<p align="center">
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanhamid0717&theme=react&hide_border=true&background=0D1117" 
+       alt="GitHub Streak"/>
+
+</p>
+
+
+
 ---
-<h2>⚡Activity Graph</h2>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faizanhamid0717&theme=react-dark&hide_border=true" alt="faizan Activity Graph" />
+<h2 align="center">⚡ GitHub Contributions</h2>
+<p align="center">
+  <img src="https://ghchart.rshah.org/faizanhamid0717" alt="GitHub Contributions"/>
+</p>
+
 
 <h2>⚡Feel free to reach out.✌️</h2>
 
